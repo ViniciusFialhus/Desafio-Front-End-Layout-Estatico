@@ -1,74 +1,146 @@
+![](https://i.imgur.com/xG74tOh.png)
 
-# Sobre o projeto
+# Desafio | Front-end - Módulo 2
 
-O Desafio de Front-End - Layout Estatico é uma prova pratica para a evolução dos alunos de Desenvolvimento de Software na plataforma Cubos Academy                      (https://cubos.academy)
+O objetivo deste exercício é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
 
-O desafio consiste na elaboração e na copia de um layout pré-definido. Os alunos deveria copiar o layout da pagina e encrementar subpaginas para a elaboração de um layout mais completo
+## Páginas obrigatórias
 
-## Layout Home
-![Layout Home]() 
+- [Home](#Home)
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+## Páginas opcionais
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+- [Portfolio](#Portfolio)
+- [Portfolio - 01 - Manage](#Portfolio---01---Manage)
+- [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
+- [Portfolio - 03 - Insure](#Portfolio---03---Insure)
+- [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
+- [Contato](#Contato)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+### Home
 
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+Seções
 
-# Como executar o projeto
+- Header ![](https://i.imgur.com/Vwj9U0y.png)
 
-## Back end
-Pré-requisitos: Java 11
+- Hero Section ![](https://i.imgur.com/tjYO6R6.png)
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+- Sobre Section ![](https://i.imgur.com/KHPaEWW.png)
 
-# entrar na pasta do projeto back end
-cd backend
+- Contato Section ![](https://i.imgur.com/e88URFi.png)
 
-# executar o projeto
-./mvnw spring-boot:run
-```
+- Footer ![](https://i.imgur.com/P06m37L.png)
 
-## Front end web
-Pré-requisitos: npm / yarn
+### Portfolio
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+Seções
 
-# entrar na pasta do projeto front end web
-cd front-web
+- Header ![](https://i.imgur.com/1pDIzMz.png)
 
-# instalar dependências
-yarn install
+- Manage Section ![](https://i.imgur.com/jHweGIb.png)
 
-# executar o projeto
-yarn start
-```
+- Bookmark Section ![](https://i.imgur.com/uTpctrq.png)
 
-# Autor
+- Insure Section ![](https://i.imgur.com/BsAWB7m.png)
 
-Wellington Mazoni de Andrade
+- Fylo Section ![](https://i.imgur.com/W9s2afk.png)
 
-https://www.linkedin.com/in/wmazoni
+- Contato Section ![](https://i.imgur.com/e88URFi.png)
 
+- Footer ![](https://i.imgur.com/P06m37L.png)
+
+### Portfolio - 01 - Manage
+
+Seções
+
+- Header ![](https://i.imgur.com/1pDIzMz.png)
+
+- Hero Section ![](https://i.imgur.com/JYY2lNG.png)
+
+- Descrição Projeto Aside ![](https://i.imgur.com/uEgRim6.png)
+
+- Main Section
+  ![](https://i.imgur.com/O1JyZtK.png)
+
+- Links Section ![](https://i.imgur.com/zGJMDOE.png)
+
+- Contato Section ![](https://i.imgur.com/e88URFi.png)
+
+- Footer ![](https://i.imgur.com/P06m37L.png)
+
+### Portfolio - 02 - Bookmark
+
+Seções
+
+- Header ![](https://i.imgur.com/1pDIzMz.png)
+
+- Hero Section ![](https://i.imgur.com/ag3Madi.png)
+
+- Descrição Projeto Aside
+  ![](https://i.imgur.com/JDvgptu.png)
+
+- Main Section
+  ![](https://i.imgur.com/T41K6z3.png)
+
+- Links Section ![](https://i.imgur.com/UpCLzFL.png)
+
+- Contato Section ![](https://i.imgur.com/e88URFi.png)
+
+- Footer ![](https://i.imgur.com/P06m37L.png)
+
+### Portfolio - 03 - Insure
+
+Seções
+
+- Header ![](https://i.imgur.com/1pDIzMz.png)
+
+- Hero Section ![](https://i.imgur.com/yJMQ0iJ.png)
+
+- Descrição Projeto Aside
+  ![](https://i.imgur.com/zofNYva.png)
+
+- Main Section
+  ![](https://i.imgur.com/BMMJXlz.png)
+
+- Links Section ![](https://i.imgur.com/9fYN4lI.png)
+
+- Contato Section ![](https://i.imgur.com/e88URFi.png)
+
+- Footer ![](https://i.imgur.com/P06m37L.png)
+
+### Portfolio - 04 - Fylo
+
+Seções
+
+- Header ![](https://i.imgur.com/1pDIzMz.png)
+
+- Hero Section ![](https://i.imgur.com/7IcYjiF.png)
+
+- Descrição Projeto Aside
+  ![](https://i.imgur.com/fKuRKYX.png)
+
+- Main Section
+  ![](https://i.imgur.com/MQC6y17.png)
+
+- Links Section ![](https://i.imgur.com/3WGHl8V.png)
+
+- Contato Section ![](https://i.imgur.com/e88URFi.png)
+
+- Footer ![](https://i.imgur.com/P06m37L.png)
+
+### Contato
+
+Seções
+
+- Header ![](https://i.imgur.com/ubDorki.png)
+
+- Entre em contato Section ![](https://i.imgur.com/4GLs5Iw.png)
+
+- Contato Section ![](https://i.imgur.com/VvO2m7w.png)
+
+- Footer ![](https://i.imgur.com/P06m37L.png)
+
+
+**LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
+
+###### tags: `front-end` `módulo 2` `HTML` `CSS` `desafio`
